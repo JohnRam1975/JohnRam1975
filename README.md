@@ -7,10 +7,10 @@ Construo plataformas SaaS multi-tenant para operação real — indústria, cond
 **Portfólio:** [johnram1975.github.io](https://johnram1975.github.io)
 
 #### Projetos em destaque
-- **ErgoSense** — análise ergonômica industrial com IA
-- **FinCare** — saúde financeira pessoal (Spring + Next.js)
-- **CondoPlus** — gestão operacional condominial
-- **AllOne WMS** — almoxarifado multi-empresa com prova de entrega
-- **MaintenancePro** — CMMS multi-tenant
+- **ErgoSense** — [ergosense.dejohn.com.br](https://ergosense.dejohn.com.br)
+- **FinCare** — [fincare.dejohn.com.br](https://fincare.dejohn.com.br)
+- **CondoPlus** — [condoplus.dejohn.com.br](https://condoplus.dejohn.com.br)
+- **AllOne WMS** — [allone.dejohn.com.br](https://allone.dejohn.com.br)
+- **MaintenancePro** — [maintenance.dejohn.com.br](https://maintenance.dejohn.com.br)
 
-[github.com/JohnRam1975](https://github.com/JohnRam1975)
+[Portfólio](https://johnram1975.github.io/) · [GitHub](https://github.com/JohnRam1975)
