@@ -10,7 +10,7 @@ Construo plataformas SaaS multi-tenant para operação real — indústria, cond
 - **ErgoSense** — [ergosense.dejohn.com.br](https://ergosense.dejohn.com.br)
 - **FinCare** — [fincare.dejohn.com.br](https://fincare.dejohn.com.br)
 - **CondoPlus** — [condoplus.dejohn.com.br](https://condoplus.dejohn.com.br)
-- **AllOne WMS** — [allone.dejohn.com.br](https://allone.dejohn.com.br)
+- **AllOne WMS** — [app.allone.dejohn.com.br](https://app.allone.dejohn.com.br)
 - **MaintenancePro** — [maintenance.dejohn.com.br](https://maintenance.dejohn.com.br)
 
 [Portfólio](https://johnram1975.github.io/) · [GitHub](https://github.com/JohnRam1975)
